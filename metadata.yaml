@@ -1,0 +1,37 @@
+_repo: Dr-Moreau-szigete-Regeny_67002
+_version: 0.0.1
+alternative_title: The island of Doctor Moreau. Hungarian
+contributor:
+  translator:
+    agent_name: Mikes, Lajos
+    birthdate: 1872
+    deathdate: 1930
+    gutenberg_agent_id: '54072'
+    url: http://www.gutenberg.org/2009/agents/54072
+    wikipedia: https://hu.wikipedia.org/wiki/Mikes_Lajos
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2021-12-23'
+identifiers:
+  gutenberg: '67002'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Animal experimentation -- Fiction'
+- !lcsh 'Shipwreck survival -- Fiction'
+- !lcsh 'Islands -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Dr. Moreau szigete: Regény'
+url: http://www.gutenberg.org/ebooks/67002
